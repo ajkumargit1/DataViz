@@ -2,8 +2,6 @@ import mongoose from "mongoose";
 import { Schema } from "mongoose";
 
 
-
-
 const dashboardSchema = new Schema({
     name:{
         type: String,
